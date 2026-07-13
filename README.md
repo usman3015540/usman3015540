@@ -44,3 +44,16 @@ Business Landing Page.
 
 GitHub:
 https://github.com/usman3015540
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usman3015540&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usman3015540&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/usman3015540
