@@ -1,4 +1,4 @@
-# Hi 👋, I'm Muhammad usman
+# Hi 👋, I'm Muhammad Usman
 
 ## 💻 Frontend Web Developer
 
