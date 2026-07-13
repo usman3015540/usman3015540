@@ -1,7 +1,7 @@
 <p align="center">
   <img src="banner.png" alt="Banner">
 </p>
-# Hi 👋, I'm Muhammad Usman
+ Hi 👋, I'm Muhammad Usman
 
 ## 💻 Frontend Web Developer
 
