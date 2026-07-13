@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/usman3015540/usman3015540/main/banner.png" width="100%" />
+  <img src="banner.png" alt="Banner">
 </p>
 # Hi 👋, I'm Muhammad Usman
 
