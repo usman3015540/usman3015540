@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋, I'm usmaniq_
 
-<!--
-**usman3015540/usman3015540** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Frontend Web Developer
 
-Here are some ideas to get you started:
+I'm a passionate Frontend Web Developer from Pakistan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build:
+
+- 🌐 Business Websites
+- 💊 Pharmacy POS Systems
+- 🛒 Inventory Management Systems
+- 🔥 Firebase Web Applications
+
+---
+
+## 🚀 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Firebase
+- Git
+- GitHub
+
+---
+
+## 📂 Featured Projects
+
+### 🏥 Islamia Pharmacy POS
+Modern Pharmacy POS & Inventory Management System.
+
+### 🌐 HMAK Travels
+Premium Umrah & Hajj Booking Website.
+
+### 🍕 Pizza Milano
+Modern Restaurant Website.
+
+### 🌍 Arashad Wali Website
+Business Landing Page.
+
+---
+
+## 📫 Contact
+
+GitHub:
+https://github.com/usman3015540
